@@ -1,2 +1,2 @@
-# Aria-Proyecto
-Repositorio de prueba
+# AriaProyecto
+Repositorio de trabajos
