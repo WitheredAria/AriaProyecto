@@ -4,7 +4,7 @@ print("1. Contar > 20.");
 print("2. Sumar pares 0 a 100.");
 print("3. Calcular múltiplos de 3");
 print("0. Salir.");
-menu = input("Introduce el número de la opción: ");
+menu = int(input("Introduce el número de la opción: "));
 
 if(menu == '1'):
     # Ejercicio 1
